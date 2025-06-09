@@ -1,0 +1,8 @@
+Requirements used in the project are:
+1)Langchain
+2)FastAPI
+3)DuckDuckGo-search
+4)Uvicorn
+5)OpenAI
+6)Python
+7)Wikipedia
