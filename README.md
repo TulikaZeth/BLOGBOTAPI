@@ -7,7 +7,7 @@ BlogBot is an intelligent, agent-based blog generation system powered by OpenAI 
 ## 🚀 Features
 
 - 🔍 **Agent-based research** using Wikipedia and DuckDuckGo
-- 🧠 **LLM-powered blog generation** using OpenAI (GPT-3.5/GPT-4)
+- 🧠 **LLM-powered blog generation** using Gemini flash-2.0
 - ✍️ Generates a complete blog with:
   - Title
   - Introduction
