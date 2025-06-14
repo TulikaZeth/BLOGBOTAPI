@@ -1,6 +1,6 @@
 # 📝 BlogBot: Intelligent Blog Generation System
 
-BlogBot is an intelligent, agent-based blog generation system powered by OpenAI and LangChain. It uses real-time tools like Wikipedia and DuckDuckGo Search to research a given topic and generate well-structured, engaging blogs with minimal input.
+BlogBot is an intelligent, agent-based blog generation system powered by Gemini-2.0 and LangChain. It uses real-time tools like Wikipedia and DuckDuckGo Search to research a given topic and generate well-structured, engaging blogs with minimal input.
 
 ---
 
